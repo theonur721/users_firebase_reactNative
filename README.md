@@ -8,10 +8,7 @@ Firebase Auth ile kayıt/giriş yapılabilir, Firestore üzerinden kullanıcıla
 ## 📌 Özellikler
 
 - 🔐 Firebase Authentication ile kayıt & giriş
-- 👤 Kullanıcı ekleme
-- 📋 Kullanıcı listeleme
-- ✏️ Kullanıcı güncelleme
-- 🗑️ Kullanıcı silme
+- 👤 Kullanıcı ekleme, güncelleme, silme, listeleme
 - 📄 Kullanıcı detay sayfası
 - 🧳 İş (Job) seçerek kullanıcı ekleme
 - 🚪 Logout özelliği
